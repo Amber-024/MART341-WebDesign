@@ -1,0 +1,28 @@
+<style>
+    /* CSS goes here: */
+    body {
+      font-family: Arial, Verdana, Tahoma
+      font-weight:bold;
+       background-color: ##00ff00;
+       color: rgb black
+    }
+    /* This is my note! */
+      .main-container {
+        border-style: solid;
+        border-width: 2px;
+        border-color: #ffc0cb;
+        background: rgba(0,255,0, 0.5);
+        padding: 20%
+        height: 250px;
+      width: 250px;
+      position: absolute;
+      }
+
+      div.image-box {
+    opacity: 1.0;}
+
+    div.image-box2 {
+    opacity: 1.0
+  }
+
+ </style>
