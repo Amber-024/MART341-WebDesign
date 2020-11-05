@@ -1,0 +1,2 @@
+1) Borders help define the amount of space a box or element takes up. Borders are different because they are directly outside the main content and can be separately colored and has many more style options. Padding is the amount of space from between the inner content of the element and the element itself. Lastly, the margin is the space between the element and the other elements, or the edges of the parent element.
+2) I didn't really have any challenges this week other than being stressed because finals are coming up.

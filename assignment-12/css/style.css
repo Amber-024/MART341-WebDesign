@@ -1,0 +1,39 @@
+.parent-container-03 {
+   border: 3px solid #333;
+   border-radius: 20px;
+   background-color: teal;
+   width: 80%;
+   padding: 2em;
+   margin: auto;
+   position: static;
+}
+.child-container-03 {
+   width: 75%;
+   margin: 1em auto;
+   padding: 2em;
+   text-align: center;
+   border: 10px solid #fff;
+   background-color: white;
+   color: black;
+   font-size: 1.25em;
+   position: static;
+}
+.border-01 {
+   border-radius: 100%;
+ }
+ .white-square {
+    width: 10%;
+    height: 5em;
+    margin: 0.25em;
+    background-color: white;
+}
+.float .white-square {
+    float: left;
+}
+body{
+  font-family: Verdana, Arial, Tahoma;
+  font-size: 12px;
+}
+.display-inline {
+    display: inline;
+}
