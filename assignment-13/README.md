@@ -1,0 +1,3 @@
+1) My parents own a plumbing company and they actually want me to make them a webpage but I am not nearly good enough to do that. They need a webpage that can link together the products that we commonly use in houses and to get their contact info out there.
+2) It's important to consider mobile-first design because majority of people access websites on their mobile device and it is projected that 75% of people will rely on their mobile devices before 2025. It also allows you to ensure that the webpage will work seamlessly on all devices.
+3) There is certainly a lot to remember how to do and it seems like a lot up front but working on it little by little really helps.
