@@ -1,0 +1,89 @@
+.menu-item:hover {
+    background-color: White;
+    text color: #Black;
+}
+
+p{
+  text-align: justify;
+}
+h1{text-align: center;
+    font-family: FiraSans, sans-serif;
+
+}
+
+*{
+  font-family:  Merriweather, sans-serif;
+}
+
+@media only screen and (min-width: 600px) {
+    .image{
+        float:center;
+        content:url("../images/Wyoming.jpg");
+      }
+    .image{
+            float:center;
+            content:url("../images/wyoming2.jpg");
+          }
+            .image{
+                float:center;
+                content:url("../images/kaider_river.jpg");
+    }
+    .image{
+        float:center;
+        content:url("../images/McDonald_Lake.jpg");
+    }
+    .image{
+        float:center;
+        content:url("../images/kaiser_firstday.jpg");
+    }
+    .image{
+        float:center;
+        content:url("../images/1stdayatUM.jpg");
+    }
+  }
+    header {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background-color: #26272b;
+    font-family: Merriweather;
+    text-transform: uppercase;
+    margin-top: 0;
+    height: 4em;
+    width: 100%;
+    text-align: left;
+}
+
+.menu-item {
+    display: inline-block;
+    margin: 1em .2em;
+    min-width: 6em;
+    text-align: center;
+    background-color: #26272b;
+    padding: 0.5em 1em;
+}
+}
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    border: 1px solid #000;
+    margin: 0.5em 0 0 -1em;
+    color: #000;
+    background-color: #fff;
+    z-index: 1;
+}
+.dropdown-content a {
+    color: #000;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+
+.image2 {
+    margin: auto;
+    content:url("../images/business-card.jpg");
+}
